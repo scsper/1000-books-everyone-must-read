@@ -57,8 +57,8 @@ Comedy
 [ ] Travels with My Aunt by Graham Greene
 [ ] Diary of a Nobody by George Grossmith
 [ ] The Little World of Don Camillo by Giovanni Guareschi
-[ ] The Curious Incident of the Dog in the Night-time by Mark Haddon
-[ ] Catch-22 by Joseph Heller
+[x] The Curious Incident of the Dog in the Night-time by Mark Haddon
+[x] Catch-22 by Joseph Heller
 [ ] Mr Blandings Builds His Dream House by Eric Hodgkins
 [ ] High Fidelity by Nick Hornby
 [ ] I Served the King of England by Bohumil Hrabal
@@ -102,7 +102,7 @@ Comedy
 [ ] Zazie in the Metro by Raymond Queneau
 [ ] Solomon Gursky Was Here by Mordecai Richler
 [ ] Alms for Oblivion by Simon Raven
-[ ] Portnoy's Complaint by Philip Roth
+[x] Portnoy's Complaint by Philip Roth
 [ ] The Westminster Alice by Saki
 [ ] The Unbearable Bassington by Saki
 [ ] Hurrah for St Trinian's by Ronald Searle
@@ -206,10 +206,10 @@ Crime
 [ ] Dirty Tricks by Michael Dibdin
 [ ] A Rich Full Death by Michael Dibdin
 [ ] Vendetta by Michael Dibdin
-[ ] Crime and Punishment by Fyodor Dostoevsky
+[x] Crime and Punishment by Fyodor Dostoevsky
 [ ] An American Tragedy by Theodore Dreiser
 [ ] My Cousin Rachel by Daphne du Maurier
-[ ] The Count of Monte Cristo by Alexandre Dumas
+[x] The Count of Monte Cristo by Alexandre Dumas
 [ ] The Pledge by Friedrich Durrenmatt
 [ ] The Crime of Father Amado by José Maria de Eça de Queiroz
 [ ] The Name of the Rose by Umberto Eco
@@ -226,8 +226,8 @@ Crime
 [ ] A Gun for Sale by Graham Greene
 [ ] The Ministry of Fear by Graham Greene
 [ ] The Third Man by Graham Greene
-[ ] A Time to Kill by John Grisham
-[ ] The King of Torts by John Grisham
+[x] A Time to Kill by John Grisham
+[x] The King of Torts by John Grisham
 [ ] Hangover Square by Patrick Hamilton
 [ ] The Glass Key by Dashiell Hammett
 [ ] The Maltese Falcon by Dashiell Hammett
@@ -250,17 +250,17 @@ Crime
 [ ] Cover Her Face by PD James
 [ ] A Taste for Death by PD James
 [ ] Friday the Rabbi Slept Late by Harry Kemelman
-[ ] Misery by Stephen King
+[x] Misery by Stephen King
 [ ] Dolores Claiborne by Stephen King
 [ ] Kim by Rudyard Kipling
 [ ] The Constant Gardener by John le Carre
 [ ] Tinker, Tailor, Soldier, Spy by John le Carre
 [ ] The Spy Who Came in from the Cold by John le Carre
-[ ] To Kill a Mockingbird by Harper Lee
+[x] To Kill a Mockingbird by Harper Lee
 [ ] 52 Pick-up by Elmore Leonard
 [ ] Get Shorty by Elmore Leonard
 [ ] Motherless Brooklyn by Jonathan Lethem
-[ ] The Bourne Identity by Robert Ludlum
+[x] The Bourne Identity by Robert Ludlum
 [ ] Cop Hater by Ed McBain
 [ ] No Country for Old Men by Cormac McCarthy
 [ ] Enduring Love by Ian McEwan
@@ -345,7 +345,7 @@ Family and self
 [ ] Quarantine by Jim Crace
 [ ] The Mandarins by Simone de Beauvoir
 [ ] Roxana by Daniel Defoe
-[ ] Great Expectations by Charles Dickens
+[x] Great Expectations by Charles Dickens
 [ ] The Brothers Karamazov by Fyodor Dostoevsky
 [ ] My New York Diary by Julie Doucet
 [ ] The Millstone by Margaret Drabble
@@ -364,10 +364,10 @@ Family and self
 [ ] The Immoralist by Andre Gide
 [ ] The Vatican Cellars by Andre Gide
 [ ] The Vicar of Wakefield by Oliver Goldsmith
-[ ] The Power and the Glory by Graham Greene
+[x] The Power and the Glory by Graham Greene
 [ ] Hunger by Knut Hamsun
 [ ] The Shrimp and the Anemone by LP Hartley
-[ ] The Old Man and the Sea by Ernest Hemingway
+[x] The Old Man and the Sea by Ernest Hemingway
 [ ] Steppenwolf by Herman Hesse
 [ ] Narziss and Goldmund by Hermann Hesse
 [ ] The Three Paradoxes by Paul Hornschemeier
@@ -381,7 +381,7 @@ Family and self
 [ ] Ulysses by James Joyce
 [ ] Good Behaviour by Molly Keane
 [ ] Memet my Hawk by Yasar Kemal
-[ ] One Flew Over the Cuckoo's Nest by Ken Kesey
+[x] One Flew Over the Cuckoo's Nest by Ken Kesey
 [ ] The Buddha of Suburbia by Hanif Kureishi
 [ ] Sons and Lovers by DH Lawrence
 [ ] Cider with Rosie by Laurie Lee
@@ -409,7 +409,7 @@ Family and self
 [ ] At-Swim-Two-Birds by Flann O'Brien
 [ ] Teach Us to Outgrow Our Madness by Kezaburo Oe
 [ ] The Moviegoer by Walker Percy
-[ ] The Bell Jar by Sylvia Plath
+[x] The Bell Jar by Sylvia Plath
 [ ] My Name Is Asher Lev by Chaim Potok
 [ ] The Good Companions by JB Priestley
 [ ] The Shipping News by E Annie Proulx
@@ -419,8 +419,8 @@ Family and self
 [ ] The Fortunes of Richard Mahoney by Henry Handel Richardson
 [ ] Call it Sleep by Henry Roth
 [ ] Julie, ou la Nouvelle Heloise by Jean-Jacques Rousseau
-[ ] The God of Small Things by Arundhati Roy
-[ ] The Catcher in the Rye by JD Salinger
+[x] The God of Small Things by Arundhati Roy
+[x] The Catcher in the Rye by JD Salinger
 [ ] Alberta and Jacob by Cora Sandel
 [ ] A Suitable Boy by Vikram Seth
 [ ] Unless by Carol Shields
@@ -439,7 +439,7 @@ Family and self
 [ ] The Blackwater Lightship by Colm Toibin
 [ ] The Secret Diary of Adrian Mole, Aged 13 3/4 by Sue Townsend
 [ ] Death in Summer by William Trevor
-[ ] Fathers and Sons by Ivan Turgenev
+[x] Fathers and Sons by Ivan Turgenev
 [ ] Peace in War by Miguel de Unamuno
 [ ] The Rabbit Omnibus by John Updike
 [ ] The Color Purple by Alice Walker
@@ -463,7 +463,7 @@ Love
 [ ] Dom Casmurro Joaquim by Maria Machado de Assis
 [ ] Northanger Abbey by Jane Austen
 [ ] Sense and Sensibility by Jane Austen
-[ ] Pride and Prejudice by Jane Austen
+[x] Pride and Prejudice by Jane Austen
 [ ] Mansfield Park by Jane Austen
 [ ] Emma by Jane Austen
 [ ] Persuasion by Jane Austen
@@ -496,21 +496,21 @@ Love
 [ ] Adam Bede by George Eliot
 [ ] Daniel Deronda by George Eliot
 [ ] The Mill on the Floss by George Eliot
-[ ] The Virgin Suicides by Jeffrey Eugenides
-[ ] The Great Gatsby by F Scott Fitzgerald
+[x] The Virgin Suicides by Jeffrey Eugenides
+[x] The Great Gatsby by F Scott Fitzgerald
 [ ] Tender is the Night by F Scott Fitzgerald
 [ ] The Blue Flower by Penelope Fitzgerald
 [ ] Madame Bovary by Gustave Flaubert
 [ ] The Good Soldier by Ford Madox Ford
 [ ] A Room with a View by EM Forster
 [ ] The French Lieutenant's Woman by John Fowles
-[ ] The Snow Goose by Paul Gallico
+[x] The Snow Goose by Paul Gallico
 [ ] Ruth by Elizabeth Gaskell
 [ ] Strait is the Gate by Andre Gide
 [ ] Sunset Song by Lewis Grassic Gibbon
 [ ] The Sorrows of Young Werther by Johann Wolfgang Goethe
 [ ] Living by Henry Green
-[ ] The End of the Affair by Graham Greene
+[x] The End of the Affair by Graham Greene
 [ ] The Well of Loneliness by Radclyffe Hall
 [ ] Far From the Madding Crowd by Thomas Hardy
 [ ] Jude the Obscure by Thomas Hardy
@@ -524,9 +524,9 @@ Love
 [ ] Regency Buck by Georgette Heyer
 [ ] The Swimming-Pool Library by Alan Hollinghurst
 [ ] Green Mansions: A Romance of the Tropical Forest by WH Hudson
-[ ] Their Eyes Were Watching God by Zora Neale Hurston
+[x] Their Eyes Were Watching God by Zora Neale Hurston
 [ ] Crome Yellow by Aldous Huxley
-[ ] The Remains of the Day by Kazuo Ishiguro
+[x] The Remains of the Day by Kazuo Ishiguro
 [ ] Portrait of a Lady by Henry James
 [ ] The Wings of the Dove by Henry James
 [ ] The Piano Teacher by Elfriede Jelinek
@@ -562,7 +562,7 @@ Love
 [ ] The Pursuit of Love by Nancy Mitford
 [ ] Love in a Cold Climate by Nancy Mitford
 [ ] Arturo's Island by Elsa Morante
-[ ] Norwegian Wood by Haruki Murakami
+[x] Norwegian Wood by Haruki Murakami
 [ ] Lolita, or the Confessions of a White Widowed Male by Vladimir Nabokov
 [ ] The Painter of Signs by RK Narayan
 [ ] Delta of Venus by Anais Nin
@@ -593,7 +593,7 @@ Love
 [ ] Music and Silence by Rose Tremain
 [ ] First Love by Ivan Turgenev
 [ ] Breathing Lessons by Anne Tyler
-[ ] The Accidental Tourist by Anne Tyler
+[x] The Accidental Tourist by Anne Tyler
 [ ] The Night Watch by Sarah Waters
 [ ] The Graduate by Charles Webb
 [ ] The Age of Innocence by Edith Wharton
@@ -604,9 +604,9 @@ Love
 Science fiction and fantasy
 =============================
 
-[ ] The Hitchhikers Guide to the Galaxy by Douglas Adams
+[x] The Hitchhikers Guide to the Galaxy by Douglas Adams
 [ ] Non-Stop by Brian W Aldiss
-[ ] Foundation by Isaac Asimov
+[x] Foundation by Isaac Asimov
 [ ] The Blind Assassin by Margaret Atwood
 [ ] The Handmaid's Tale by Margaret Atwood
 [ ] In the Country of Last Things by Paul Auster
@@ -621,11 +621,11 @@ Science fiction and fantasy
 [ ] Darwin's Radio by Greg Bear
 [ ] Vathek by William Beckford
 [ ] The Stars My Destination by Alfred Bester
-[ ] Fahrenheit 451 by Ray Bradbury
+[x] Fahrenheit 451 by Ray Bradbury
 [ ] Lost Souls by Poppy Z Brite
 [ ] Wieland by Charles Brockden Brown
 [ ] Rogue Moon by Algis Budrys
-[ ] The Master and Margarita by Mikhail Bulgakov
+[x] The Master and Margarita by Mikhail Bulgakov
 [ ] The Coming Race by EGEL Bulwer-Lytton
 [ ] A Clockwork Orange by Anthony Burgess
 [ ] The End of the World News by Anthony Burgess
@@ -645,7 +645,7 @@ Science fiction and fantasy
 [ ] Jonathan Strange & Mr Norrell by Susanna Clarke
 [ ] Hello Summer, Goodbye by Michael G Coney
 [ ] Girlfriend in a Coma by Douglas Coupland
-[ ] House of Leaves by Mark Danielewski
+[x] House of Leaves by Mark Danielewski
 [ ] Pig Tales by Marie Darrieussecq
 [ ] The Einstein Intersection by Samuel R Delaney
 [ ] Do Androids Dream of Electric Sheep? by Philip K Dick
@@ -658,17 +658,17 @@ Science fiction and fantasy
 [ ] Red Shift by Alan Garner
 [ ] Neuromancer by William Gibson
 [ ] Herland by Charlotte Perkins Gilman
-[ ] Lord of the Flies by William Golding
+[x] Lord of the Flies by William Golding
 [ ] The Forever War by Joe Haldeman
 [ ] Light by M John Harrison
 [ ] The House of the Seven Gables by Nathaniel Hawthorne
-[ ] Stranger in a Strange Land by Robert A Heinlein
-[ ] Dune by Frank L Herbert
+[x] Stranger in a Strange Land by Robert A Heinlein
+[x] Dune by Frank L Herbert
 [ ] The Glass Bead Game by Herman Hesse
 [ ] Riddley Walker by Russell Hoban
 [ ] The Private Memoirs and Confessions of a Justified Sinner by James Hogg
 [ ] Atomised by Michel Houellebecq
-[ ] Brave New World by Aldous Huxley
+[x] Brave New World by Aldous Huxley
 [ ] The Unconsoled by Kazuo Ishiguro
 [ ] The Haunting of Hill House by Shirley Jackson
 [ ] The Turn of the Screw by Henry James
@@ -676,15 +676,15 @@ Science fiction and fantasy
 [ ] After London; or, Wild England by Richard Jefferies
 [ ] Bold as Love by Gwyneth Jones
 [ ] The Trial by Franz Kafka
-[ ] Flowers for Algernon by Daniel Keyes
-[ ] The Shining by Stephen King
+[x] Flowers for Algernon by Daniel Keyes
+[x] The Shining by Stephen King
 [ ] The Victorian Chaise-longue by Marghanita Laski
 [ ] Uncle Silas by Joseph Sheridan Le Fanu
 [ ] The Earthsea Series by Ursula Le Guin
 [ ] The Left Hand of Darkness by Ursula Le Guin
 [ ] Solaris by Stanislaw Lem
 [ ] Memoirs of a Survivor by Doris Lessing
-[ ] The Chronicles of Narnia by CS Lewis
+[x] The Chronicles of Narnia by CS Lewis
 [ ] The Monk by Matthew Lewis
 [ ] A Voyage to Arcturus by David Lindsay
 [ ] The Night Sessions by Ken Macleod
@@ -698,19 +698,19 @@ Science fiction and fantasy
 [ ] The Scar by China Mieville
 [ ] Ingenious Pain by Andrew Miller
 [ ] A Canticle for Leibowitz by Walter M Miller Jr
-[ ] Cloud Atlas by David Mitchell
+[x] Cloud Atlas by David Mitchell
 [ ] Mother London by Michael Moorcock
 [ ] News from Nowhere by William Morris
 [ ] Beloved by Toni Morrison
-[ ] The Wind-Up Bird Chronicle by Haruki Murakami
+[x] The Wind-Up Bird Chronicle by Haruki Murakami
 [ ] Ada or Ardor by Vladimir Nabokov
-[ ] The Time Traveler's Wife by Audrey Niffenegger
+[x] The Time Traveler's Wife by Audrey Niffenegger
 [ ] Ringworld by Larry Niven
 [ ] Vurt by Jeff Noon
 [ ] The Third Policeman by Flann O'Brien
 [ ] The Famished Road by Ben Okri
-[ ] Nineteen Eighty-Four by George Orwell
-[ ] Fight Club by Chuck Palahniuk
+[x] Nineteen Eighty-Four by George Orwell
+[x] Fight Club by Chuck Palahniuk
 [ ] Nightmare Abbey by Thomas Love Peacock
 [ ] Titus Groan by Mervyn Peake
 [ ] The Space Merchants by Frederik Pohl and CM Kornbluth
@@ -721,30 +721,30 @@ Science fiction and fantasy
 [ ] Gargantua and Pantagruel by Francois Rabelais
 [ ] The Mysteries of Udolpho by Ann Radcliffe
 [ ] Revelation Space by Alastair Reynolds
-[ ] The Years of Rice and Salt by Kim Stanley Robinson
-[ ] Harry Potter and the Philosopher's Stone by JK Rowling
+[x] The Years of Rice and Salt by Kim Stanley Robinson
+[x] Harry Potter and the Philosopher's Stone by JK Rowling
 [ ] Satanic Verses by Salman Rushdie
 [ ] The Female Man by Joanna Russ
 [ ] Air by Geoff Ryman
 [ ] The Little Prince by Antoine de Saint-Exupery
-[ ] Blindness by Jose Saramago
+[x] Blindness by Jose Saramago
 [ ] How the Dead Live by Will Self
-[ ] Frankenstein by Mary Shelley
-[ ] Hyperion by Dan Simmons
+[x] Frankenstein by Mary Shelley
+[x] Hyperion by Dan Simmons
 [ ] Star Maker by Olaf Stapledon
 [ ] Snow Crash by Neal Stephenson
 [ ] The Strange Case of Dr Jekyll and Mr Hyde by Robert Louis Stevenson
 [ ] Dracula by Bram Stoker
 [ ] The Insult by Rupert Thomson
-[ ] The Hobbit by JRR Tolkien
-[ ] The Lord of the Rings by JRR Tolkien
+[x] The Hobbit by JRR Tolkien
+[x] The Lord of the Rings by JRR Tolkien
 [ ] A Connecticut Yankee in King Arthur's Court by Mark Twain
 [ ] Sirens of Titan by Kurt Vonnegut
 [ ] The Castle of Otranto by Horace Walpole
 [ ] Institute Benjamenta by Robert Walser
 [ ] Lolly Willowes by Sylvia Townsend Warner
 [ ] Affinity by Sarah Waters
-[ ] The Time Machine by HG Wells
+[x] The Time Machine by HG Wells
 [ ] The War of the Worlds by HG Wells
 [ ] The Sword in the Stone by TH White
 [ ] The Old Men at the Zoo by Angus Wilson
@@ -752,7 +752,7 @@ Science fiction and fantasy
 [ ] Orlando by Virginia Woolf
 [ ] Day of the Triffids by John Wyndham
 [ ] The Midwich Cuckoos by John Wyndham
-[ ] We by Yevgeny Zamyatin
+[x] We by Yevgeny Zamyatin
 
 State of the nation
 ======================
@@ -800,7 +800,7 @@ State of the nation
 [ ] Sister Carrie by Theodor Dreiser
 [ ] Castle Rackrent by Maria Edgeworth
 [ ] Middlemarch by George Eliot
-[ ] Silas Marner by George Eliot
+[x] Silas Marner by George Eliot
 [ ] The Invisible Man by Ralph Ellison
 [ ] Sentimental Education by Gustave Flaubert
 [ ] Effi Briest by Theodore Fontane
@@ -844,18 +844,18 @@ State of the nation
 [ ] A Fine Balance by Rohinton Mistry
 [ ] The Time of Indifference by Alberto Moravia
 [ ] A Bend in the River by VS Naipaul
-[ ] McTeague by Frank Norris
+[x] McTeague by Frank Norris
 [ ] Personality by Andrew O'Hagan
-[ ] Animal Farm by George Orwell
+[x] Animal Farm by George Orwell
 [ ] The Ragazzi Pier by Paolo Pasolini
-[ ] Cry, the Beloved Country by Alan Paton
+[x] Cry, the Beloved Country by Alan Paton
 [ ] The Moon and the Bonfire by Cesare Pavese
 [ ] GB84 by David Peace
 [ ] Headlong Hall by Thomas Love Peacock
 [ ] Afternoon Men by Anthony Powell
 [ ] Vineland by Thomas Pynchon
 [ ] The Radetzky March by Joseph Roth
-[ ] American Pastoral by Philip Roth
+[x] American Pastoral by Philip Roth
 [ ] The Human Stain by Philip Roth
 [ ] Midnight's Children by Salman Rushdie
 [ ] Shame by Salman Rushdie
@@ -871,7 +871,7 @@ State of the nation
 [ ] Novel on Yellow Paper by Stevie Smith
 [ ] White Teeth by Zadie Smith
 [ ] One Day in the Life of Ivan Denisovtich by Alexandr Solzhenitsyn
-[ ] The Grapes of Wrath by John Steinbeck
+[x] The Grapes of Wrath by John Steinbeck
 [ ] The Red and the Black by Stendhal
 [ ] This Sporting Life by David Storey
 [ ] The Red Room by August Stringberg
@@ -888,7 +888,7 @@ State of the nation
 [ ] The Day of the Locust by Nathanael West
 [ ] The Return of the Soldier by Rebecca West
 [ ] The House of Mirth by Edith Wharton
-[ ] The Bonfire of the Vanities by Tom Wolfe
+[x] The Bonfire of the Vanities by Tom Wolfe
 [ ] Germinal by Emile Zola
 [ ] La Bete Humaine by Emile Zola
 
@@ -913,13 +913,13 @@ War and travel
 [ ] One of Ours by Willa Cather
 [ ] Journey to the End of the Night by Louis-Ferdinand Celine
 [ ] Monkey by Wu Ch'eng-en
-[ ] Heart of Darkness by Joseph Conrad
+[x] Heart of Darkness by Joseph Conrad
 [ ] Lord Jim by Joseph Conrad
 [ ] Nostromo by Joseph Conrad
 [ ] Sharpe's Eagle by Bernard Cornwell
 [ ] The History of Pompey the Little by Francis Coventry
-[ ] The Red Badge of Courage by Stephen Crane
-[ ] Robinson Crusoe by Daniel Defoe
+[x] The Red Badge of Courage by Stephen Crane
+[x] Robinson Crusoe by Daniel Defoe
 [ ] Bomber by Len Deighton
 [ ] Deliverance by James Dickey
 [ ] Three Soldiers by John Dos Passos
@@ -957,20 +957,20 @@ War and travel
 [ ] Confederates by Thomas Keneally
 [ ] Schindler's Ark by Thomas Keneally
 [ ] Day by AL Kennedy
-[ ] On the Road by Jack Kerouac
+[x] On the Road by Jack Kerouac
 [ ] Darkness at Noon by Arthur Koestler
-[ ] The Painted Bird by Jerzy Kosinski
+[x] The Painted Bird by Jerzy Kosinski
 [ ] If Not Now, When? by Primo Levi
-[ ] The Call of the Wild by Jack London
+[x] The Call of the Wild by Jack London
 [ ] The Guns of Navarone by Alistair MacLean
-[ ] All the Pretty Horses by Cormac McCarthy
-[ ] Blood Meridian by Cormac McCarthy
+[x] All the Pretty Horses by Cormac McCarthy
+[x] Blood Meridian by Cormac McCarthy
 [ ] The Mark of Zorro by Johnston McCulley
 [ ] Lonesome Dove by Larry McMurty
 [ ] The Naked and the Dead by Norman Mailer
 [ ] La Condition Humaine by Andre Malraux
 [ ] Fortunes of War by Olivia Manning
-[ ] One Hundred Years of Solitude by Gabriel Garcia Marquez
+[x] One Hundred Years of Solitude by Gabriel Garcia Marquez
 [ ] The Children of the New Forest by Frederick Marryat
 [ ] Moby-Dick or, The Whale by Herman Melville
 [ ] Tales of the South Pacific by James Michener
@@ -979,7 +979,7 @@ War and travel
 [ ] Suite Francaise by Irene Nemirovsky
 [ ] The Sorrow of War by Bao Ninh
 [ ] Master and Commander by Patrick O'Brian
-[ ] The Things They Carried by Tim O'Brien
+[x] The Things They Carried by Tim O'Brien
 [ ] The Scarlet Pimpernel by Baroness Emmuska Orczy
 [ ] Burmese Days by George Orwell
 [ ] Zen and the Art of Motorcycle Maintenance by Robert Pirsig
@@ -995,7 +995,7 @@ War and travel
 [ ] The Devil to Pay in the Backlands by Joao Guimaraes Rosa
 [ ] Sacaramouche by Rafael Sabatini
 [ ] Captain Blood by Rafael Sabatini
-[ ] Everything is Illuminated by Jonathon Safran Foer
+[x] Everything is Illuminated by Jonathon Safran Foer
 [ ] The Hunters by James Salter
 [ ] Ivanhoe by Sir Walter Scott
 [ ] The Rings of Saturn by WG Sebald
@@ -1008,17 +1008,17 @@ War and travel
 [ ] Cryptonomicon by Neil Stephenson
 [ ] A Sentimental Journey by Lawrence Sterne
 [ ] Kidnapped by Robert Louis Stevenson
-[ ] Treasure Island by Robert Louis Stevenson
+[x] Treasure Island by Robert Louis Stevenson
 [ ] A Flag for Sunrise by Robert Stone
 [ ] Sophie's Choice by William Styron
 [ ] Gulliver's Travels by Jonathan Swift
 [ ] War and Peace by Leo Tolstoy
-[ ] The Adventures of Huckleberry Finn by Mark Twain
+[x] The Adventures of Huckleberry Finn by Mark Twain
 [ ] Around the World in Eighty Days by Jules Verne
 [ ] A Journey to the Centre of the Earth by Jules Verne
 [ ] Williwaw by Gore Vidal
 [ ] Candide by Voltaire
-[ ] Slaughter-House Five by Kurt Vonnegut
+[x] Slaughter-House Five by Kurt Vonnegut
 [ ] Put Out More Flags by Evelyn Waugh
 [ ] Men at Arms by Evelyn Waugh
 [ ] The Island of Dr Moreau by HG Wells
