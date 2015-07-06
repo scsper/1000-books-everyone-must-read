@@ -183,7 +183,7 @@ Crime
 [ ] The Riddle of the Sands by Erskine Childers
 [ ] And Then There Were None by Agatha Christie
 [ ] The Mysterious Affair at Styles by Agatha Christie
-[ ] The Murder of Roger Ackroyd by Agatha Christie
+[x] The Murder of Roger Ackroyd by Agatha Christie
 [ ] The Murder at the Vicarage by Agatha Christie
 [ ] The Secret Adversary by Agatha Christie
 [ ] The Woman in White by Wilkie Collins
