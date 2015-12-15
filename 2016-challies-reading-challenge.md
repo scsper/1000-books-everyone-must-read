@@ -11,7 +11,7 @@ Modified slightly based on interest.
 - [ ] A book your pastor recommends
 - [ ] A book more than 100 years old
 - [ ] A book for children
-- [ ] A mystery or detective novel
+- [ ] A mystery or detective novel [in progress - The Mysterious Affair at Styles by Agatha Christie - Scott]
 - [ ] A book published in 2016
 - [ ] A book about a current issue
 - [ ] A Man Booker Prize nominee
