@@ -182,7 +182,7 @@ Crime
 - [ ] No Orchids for Miss Blandish by James Hadley Chase
 - [ ] The Riddle of the Sands by Erskine Childers
 - [ ] And Then There Were None by Agatha Christie
-- [ ] The Mysterious Affair at Styles by Agatha Christie
+- [x] The Mysterious Affair at Styles by Agatha Christie
 - [x] The Murder of Roger Ackroyd by Agatha Christie
 - [ ] The Murder at the Vicarage by Agatha Christie
 - [ ] The Secret Adversary by Agatha Christie
@@ -291,7 +291,7 @@ Crime
 - [ ] The Blue Room by Georges Simenon
 - [ ] The Laughing Policeman by Maj Sjowall and Per Wahloo
 - [ ] Gorky Park by Martin Cruz Smith
-- [ ] Of Mice and Men by John Steinbeck
+- [x] Of Mice and Men by John Steinbeck
 - [ ] The League of Frightened Men by Rex Stout
 - [ ] Perfume by Patrick Suskind
 - [ ] The Secret History by Donna Tartt
