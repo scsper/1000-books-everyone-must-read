@@ -47,7 +47,7 @@ Modified slightly based on interest.
 - [ ] A book about money or finance [dibs - shasha]
 - [ ] A novel set in a country that is not your own [dibs - shasha]
 - [ ] A book about music
-- [ ] A memoir [in progress - Kitchen Confidential by Anthony Bourdain]
+- [x] A memoir [Kitchen Confidential by Anthony Bourdain = Scott]
 - [ ] A book about joy or happiness
 - [ ] A book by a female author
 - [ ] A book whose title comes from a Bible verse
