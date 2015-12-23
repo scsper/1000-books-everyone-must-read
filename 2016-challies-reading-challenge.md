@@ -26,7 +26,7 @@ Modified slightly based on interest.
 - [ ] A book by C.S. Lewis or J.R.R. Tolkien
 - [ ] The National Book award winner
 - [ ] A book that has a fruit of the Spirit in the title
-- [x] A book on the current New York Times list of bestsellers [The Crossing by Michael Connelly - Scott]
+- [x] A book on the current New York Times list of bestsellers [The Crossing by Michael Connelly - Scott 12/21/2015]
 - [ ] A book about church history
 - [ ] A graphic novel
 - [ ] A book of poetry
@@ -47,7 +47,7 @@ Modified slightly based on interest.
 - [ ] A book about money or finance [dibs - shasha]
 - [ ] A novel set in a country that is not your own [dibs - shasha]
 - [ ] A book about music
-- [x] A memoir [Kitchen Confidential by Anthony Bourdain = Scott]
+- [x] A memoir [Kitchen Confidential by Anthony Bourdain = Scott 12/23/2015]
 - [ ] A book about joy or happiness
 - [ ] A book by a female author
 - [ ] A book whose title comes from a Bible verse
@@ -126,4 +126,4 @@ Bonus
 - [ ] A book about business
 - [ ] A book about entrepreneurship
 
-Total: 1 out of 104
+Total: 3 out of 104
