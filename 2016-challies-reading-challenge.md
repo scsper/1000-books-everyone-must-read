@@ -100,8 +100,8 @@ Modified slightly based on interest.
 - [ ] A book about leadership
 - [ ] A book about public speaking
 - [ ] A book about science
-- [ ] A book about revival
-- [ ] A book about writing [dibs - shasha]
+- [x] A book about revival [Why Revival Tarries by Leonard Ravenhill - Scott - 12/25/2015]
+- [ ] A book about writing [in progress - On Writing by Stephen King - Shasha]
 - [ ] A book about evangelism
 - [ ] A book about ancient history
 - [ ] A book about preaching
@@ -126,4 +126,4 @@ Bonus
 - [ ] A book about business
 - [ ] A book about entrepreneurship
 
-Total: 3 out of 104
+Total: 4 out of 104

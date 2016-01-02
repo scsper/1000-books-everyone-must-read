@@ -1,0 +1,105 @@
+- [x] 1984 by George Orwell
+- [ ] A Brief History of Time by Stephen Hawking
+- [ ] A Heartbreaking Work of Staggering Genius by Dave Eggers
+- [ ] A Long Way Gone by Ishmael Beah
+- [ ] A Series of Unfortunate Events #1: The Bad Beginning: The Short-Lived Edition by
+Lemony Snicket
+- [x] A Wrinkle in Time by Madeleine L'Engle
+- [ ] Alice Munro: Selected Stories by Alice Munro
+- [ ] Alice in Wonderland by Lewis Carroll
+- [ ] All the President's Men by Bob Woodward and Carl Bernstein
+- [x] Angela's Ashes: A Memoir by Frank McCourt
+- [ ] Are You There, God? It's me, Margaret by Judy Blume
+- [x] Bel Canto by Ann Patchett
+- [ ] Beloved by Toni Morrison
+- [x] Born To Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has
+Never Seen by Christopher McDougall
+- [ ] Breath, Eyes, Memory by Edwidge Danticat
+- [x] Catch-22 by Joseph Heller
+- [ ] Charlie and the Chocolate Factory by Roald Dahl
+- [x] Charlotte's Web by E.B. White
+- [ ] Cutting For Stone by Abraham Verghese
+- [ ] Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live,
+Love, Parent, and Lead by Brene Brown
+- [ ] Diary of a Wimpy Kid, Book 1 by Jeff Kinney
+- [x] Dune by Frank Herbert
+- [x] Fahrenheit 451 by Ray Bradbury
+- [ ] Fear and Loathing in Las Vegas: A Savage Journey to the Heart of the American
+Dream by Hunter S. Thompson
+- [ ] Gone Girl by Gillian Flynn
+- [ ] Goodnight Moon by Margaret Wise Brown
+- [x] Great Expectations by Charles Dickens
+- [x] Guns, Germs, and Steel: The Fates of Human Societies by Jared M. Diamond
+- [x] Harry Potter and the Sorcerer's Stone by J.K. Rowling
+- [ ] In Cold Blood by Truman Capote
+- [ ] Interpreter of Maladies by Jhumpa Lahiri
+- [x] Invisible Man by Ralph Ellison
+- [ ] Jimmy Corrigan: Smartest Kid on Earth by Chris Ware
+- [x] Kitchen Confidential by Anthony Bourdain
+- [ ] Life After Life by Kate Atkinson
+- [x] Little House on the Prairie by Laura Ingalls Wilder
+- [ ] Lolita by Vladimir Nabokov
+- [x] Love in the Time of Cholera by Gabriel Garcia Marquez
+- [ ] Love Medicine by Louise Erdrich
+- [ ] Man's Search for Meaning by Viktor Frankl
+- [x] Me Talk Pretty One Day by David Sedaris
+- [ ] Middlesex by Jeffrey Eugenides
+- [ ] Midnight's Children by Salman Rushdie
+- [ ] Moneyball by Michael Lewis
+- [ ] Of Human Bondage by W. Somerset Maugham
+- [x] On the Road by Jack Kerouac
+- [ ] Out of Africa by Isak Dinesen
+- [ ] Persepolis by Marjane Satrapi
+- [x] Portnoy's Complaint by Philip Roth
+- [x] Pride and Prejudice by Jane Austen
+- [ ] Silent Spring by Rachel Carson
+- [x] Slaughterhouse-Five by Kurt Vonnegut
+- [x] Team of Rivals by Doris Kearns Goodwin
+- [ ] The Age of Innocence by Edith Wharton
+- [ ] The Amazing Adventures of Kavalier and Clay by Michael Chabon
+- [ ] The Autobiography of Malcolm X by Malcolm X and Alex Haley
+- [x] The Book Thief by Markus Zusak
+- [ ] The Brief Wondrous Life of Oscar Wao by Junot Diaz
+- [x] The Catcher in the Rye by J.D. Salinger
+- [ ] The Color of Water by James McBride
+- [ ] The Corrections by Jonathan Franzen
+- [ ] The Devil in the White City: Murder, Magic, and Madness at the Fair that Changed
+America by Erik Larson
+- [x] The Diary of Anne Frank by Anne Frank
+- [ ] The Fault in Our Stars by John Green
+- [x] The Giver by Lois Lowry
+- [ ] The Golden Compass: His Dark Materials by Philip Pullman
+- [x] The Great Gatsby by F. Scott Fitzgerald
+- [ ] The Handmaid's Tale by Margaret Atwood
+- [ ] The House At Pooh Corner by A. A. Milne
+- [x] The Hunger Games by Suzanne Collins
+- [ ] The Immortal Life of Henrietta Lacks by Rebecca Skloot
+- [ ] The Liars' Club: A Memoir by Mary Karr
+- [ ] The Lightning Thief (Percy Jackson and the Olympians, Book 1) by Rick Riordan
+- [ ] The Little Prince by Antoine de Saint-Exupéry
+- [ ] The Long Goodbye by Raymond Chandler
+- [ ] The Looming Tower: Al-Qaeda and the Road to 9/11 by Lawrence Wright
+- [x] The Lord of the Rings by J.R.R. Tolkien
+- [ ] The Omnivore's Dilemma: A Natural History of Four Meals by Michael Pollan
+- [x] The Phantom Tollbooth by Norton Juster
+- [ ] The Poisonwood Bible: A Novel by Barbara Kingsolver
+- [ ] The Power Broker: Robert Moses and the Fall of New York by Robert A. Caro
+- [ ] The Right Stuff by Tom Wolfe
+- [ ] The Road by Cormac McCarthy
+- [ ] The Secret History by Donna Tartt
+- [x] The Shining by Stephen King
+- [x] The Stranger by Albert Camus
+- [x] The Sun Also Rises by Ernest Hemingway
+- [x] The Things They Carried by Tim O'Brien
+- [ ] The Very Hungry Caterpillar by Eric Carle
+- [x] The Wind in the Willows by Kenneth Grahame
+- [ ] The World According to Garp by John Irving
+- [ ] The Year of Magical Thinking by Joan Didion
+- [ ] Things Fall Apart by Chinua Achebe
+- [x] To Kill a Mockingbird by Harper Lee
+- [x] Unbroken: A World War II Story of Survival, Resilience, and Redemption by Laura Hillenbrand
+- [ ] Valley of the Dolls by Jacqueline Susann
+- [x] Where the Sidewalk Ends by Shel Silverstein
+- [x] Where the Wild Things Are by Maurice Sendak
+
+Total: 39 out of 100
