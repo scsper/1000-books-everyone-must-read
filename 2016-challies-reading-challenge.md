@@ -7,7 +7,7 @@ Modified slightly based on interest.
 - [ ] A biography
 - [ ] A classic novel
 - [ ] A book about theology
-- [ ] A book with the word "gospel" in the title or subtitle
+- [ ] A book with the word "gospel" in the title or subtitle [God is the Gospel by John Piper - Scott in progress]
 - [ ] A book your pastor recommends
 - [ ] A book more than 100 years old
 - [ ] A book for children
@@ -18,7 +18,7 @@ Modified slightly based on interest.
 - [ ] The National Book award winner
 
 # The Avid Reader
-- [ ] A book written by a Puritan [in progress - Freedom of the Will by Jonathan Edwards - Scott]
+- [ ] A book written by a Puritan [Freedom of the Will by Jonathan Edwards - Scott in progress]
 - [ ] A book recommended by a family member
 - [ ] A book by or about a missionary
 - [ ] A novel that won the Pulitzer Prize
