@@ -72,7 +72,7 @@ Modified slightly based on interest.
 - [ ] A book about parenting
 - [ ] A book about philosophy
 - [ ] A book about art
-- [ ] A book with magic [The Lightning Thief by Rick Riordan - Scott in progress]
+- [x] A book with magic [The Lightning Thief by Rick Riordan - Scott 1/3/2016]
 - [ ] A book about prayer
 - [ ] A book about marriage
 - [ ] A book about a hobby
@@ -126,4 +126,4 @@ Bonus
 - [ ] A book about business
 - [ ] A book about entrepreneurship
 
-Total: 6 out of 104
+Total: 7 out of 104
