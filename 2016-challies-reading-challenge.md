@@ -72,7 +72,7 @@ Modified slightly based on interest.
 - [ ] A book about parenting
 - [ ] A book about philosophy
 - [ ] A book about art
-- [ ] A book with magic
+- [ ] A book with magic [The Lightning Thief by Rick Riordan - Scott in progress]
 - [ ] A book about prayer
 - [ ] A book about marriage
 - [ ] A book about a hobby
