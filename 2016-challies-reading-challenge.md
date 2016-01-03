@@ -81,7 +81,7 @@ Modified slightly based on interest.
 - [ ] A book about sports
 - [ ] A book by or about a pastor’s wife
 - [ ] A book about suffering
-- [ ] A book by your favorite author
+- [x] A book by your favorite author [Slade House by David Mitchell - Scott 1/2/2016]
 - [ ] A book you have read before
 - [ ] A book about homosexuality
 - [ ] A book by an author who wrote a book that you really liked
@@ -126,4 +126,4 @@ Bonus
 - [ ] A book about business
 - [ ] A book about entrepreneurship
 
-Total: 5 out of 104
+Total: 6 out of 104
