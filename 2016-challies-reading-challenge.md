@@ -126,4 +126,4 @@ Bonus
 - [ ] A book about business
 - [ ] A book about entrepreneurship
 
-Total: 7 out of 104
+Total: 8 out of 104
