@@ -38,7 +38,7 @@ Modified slightly based on interest.
 - [ ] A book about worldview
 - [ ] A play by William Shakespeare
 - [ ] A humorous book
-- [ ] The Man Booker Prize winner
+- [x] A Man Booker Prize winner [A Brief History of Seven Killings by Marlon James - Scott 1/9/2016]
 - [ ] A book based on a true story
 - [ ] A book written by Jane Austen [dibs - shasha]
 - [ ] A book by or about Martin Luther
