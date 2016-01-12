@@ -7,7 +7,7 @@ Modified slightly based on interest.
 - [ ] A biography
 - [ ] A classic novel
 - [ ] A book about theology
-- [ ] A book with the word "gospel" in the title or subtitle [God is the Gospel by John Piper - Scott in progress]
+- [x] A book with the word "gospel" in the title or subtitle [God is the Gospel by John Piper - Scott 1/12/2016]
 - [ ] A book your pastor recommends
 - [ ] A book more than 100 years old
 - [ ] A book for children
@@ -19,7 +19,7 @@ Modified slightly based on interest.
 
 # The Avid Reader
 - [ ] A book written by a Puritan [Freedom of the Will by Jonathan Edwards - Scott in progress]
-- [ ] A book recommended by a family member
+- [x] A book recommended by a family member [The Things They Carried by Tim O'Brien - Jessica 1/9/2016]
 - [ ] A book by or about a missionary
 - [ ] A novel that won the Pulitzer Prize
 - [ ] A book with at least 400 pages
@@ -126,4 +126,4 @@ Bonus
 - [ ] A book about business
 - [ ] A book about entrepreneurship
 
-Total: 8 out of 104
+Total: 10 out of 104
