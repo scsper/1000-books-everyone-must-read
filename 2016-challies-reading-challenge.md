@@ -27,7 +27,7 @@ Modified slightly based on interest.
 - [ ] The National Book award winner
 - [ ] A book that has a fruit of the Spirit in the title
 - [x] A book on the current New York Times list of bestsellers [The Crossing by Michael Connelly - Scott 12/21/2015]
-- [ ] A book about church history
+- [x] A book about church history [Sketches from Church History by S. M. Houghton - Scott 1/20/2016]
 - [ ] A graphic novel
 - [ ] A book of poetry
 - [ ] A book about your profession [Scott]
@@ -58,7 +58,7 @@ Modified slightly based on interest.
 - [ ] A book targeted at the other gender
 - [ ] A book by a speaker at a conference you have attended
 - [ ] A book written by someone of a different ethnicity than you 
-- [ ] A Man Booker Prize nominee 
+- [ ] A Man Booker Prize nominee
 
 # The Obsessed Reader
 - [ ] A book published by The Banner of Truth
@@ -126,4 +126,4 @@ Bonus
 - [ ] A book about business
 - [ ] A book about entrepreneurship
 
-Total: 13 out of 104
+Total: 14 out of 104
