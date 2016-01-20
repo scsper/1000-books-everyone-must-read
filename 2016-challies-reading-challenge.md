@@ -45,7 +45,7 @@ Modified slightly based on interest.
 - [ ] A book with 100 pages or less
 - [ ] A book with a one-word title
 - [ ] A book about money or finance [dibs - shasha]
-- [ ] A novel set in a country that is not your own [dibs - shasha]
+- [x] A novel set in a country that is not your own [The Garden of Evening Mists by Tan Twan Eng - Shasha 1/15/2016]
 - [ ] A book about music
 - [x] A memoir [Kitchen Confidential by Anthony Bourdain - Scott 12/23/2015]
 - [ ] A book about joy or happiness
@@ -82,7 +82,7 @@ Modified slightly based on interest.
 - [ ] A book by or about a pastor’s wife
 - [ ] A book about suffering
 - [x] A book by your favorite author [Slade House by David Mitchell - Scott 1/2/2016]
-- [ ] A book you have read before
+- [x] A book you have read before [Of Mice and Men - Shasha 1/19/2016]
 - [ ] A book about homosexuality
 - [ ] A book by an author who wrote a book that you really liked
 - [ ] A book about psychology [dibs - Shasha]
@@ -126,4 +126,4 @@ Bonus
 - [ ] A book about business
 - [ ] A book about entrepreneurship
 
-Total: 11 out of 104
+Total: 13 out of 104
