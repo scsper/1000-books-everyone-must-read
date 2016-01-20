@@ -58,7 +58,7 @@ Modified slightly based on interest.
 - [ ] A book targeted at the other gender
 - [ ] A book by a speaker at a conference you have attended
 - [ ] A book written by someone of a different ethnicity than you 
-- [ ] A Man Booker Prize nominee
+- [x] A Man Booker Prize nominee [The Moor's Account - Scott 1/16/2016]
 
 # The Obsessed Reader
 - [ ] A book published by The Banner of Truth
@@ -126,4 +126,4 @@ Bonus
 - [ ] A book about business
 - [ ] A book about entrepreneurship
 
-Total: 10 out of 104
+Total: 11 out of 104
