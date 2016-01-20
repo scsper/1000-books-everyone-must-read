@@ -58,7 +58,7 @@ Modified slightly based on interest.
 - [ ] A book targeted at the other gender
 - [ ] A book by a speaker at a conference you have attended
 - [ ] A book written by someone of a different ethnicity than you 
-- [x] A Man Booker Prize nominee [The Moor's Account - Scott 1/16/2016]
+- [ ] A Man Booker Prize nominee 
 
 # The Obsessed Reader
 - [ ] A book published by The Banner of Truth
@@ -88,7 +88,7 @@ Modified slightly based on interest.
 - [ ] A book about psychology [dibs - Shasha]
 - [ ] A book about the natural world
 - [ ] A novel longer than 400 pages
-- [ ] A historical book
+- [x] A historical book [The Moor's Account - Scott 1/16/2016]
 - [ ] A book about the Bible
 - [ ] A book about a country or city
 - [ ] A book about astronomy
