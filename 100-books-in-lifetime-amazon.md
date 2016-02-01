@@ -75,7 +75,7 @@ America by Erik Larson
 - [x] The Hunger Games by Suzanne Collins
 - [ ] The Immortal Life of Henrietta Lacks by Rebecca Skloot
 - [ ] The Liars' Club: A Memoir by Mary Karr
-- [ ] The Lightning Thief (Percy Jackson and the Olympians, Book 1) by Rick Riordan
+- [x] The Lightning Thief (Percy Jackson and the Olympians, Book 1) by Rick Riordan
 - [ ] The Little Prince by Antoine de Saint-Exupéry
 - [ ] The Long Goodbye by Raymond Chandler
 - [ ] The Looming Tower: Al-Qaeda and the Road to 9/11 by Lawrence Wright
@@ -102,4 +102,4 @@ America by Erik Larson
 - [x] Where the Sidewalk Ends by Shel Silverstein
 - [x] Where the Wild Things Are by Maurice Sendak
 
-Total: 39 out of 100
+Total: 40 out of 100
