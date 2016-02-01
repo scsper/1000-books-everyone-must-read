@@ -443,13 +443,13 @@ Family and self
 - [ ] Peace in War by Miguel de Unamuno
 - [ ] The Rabbit Omnibus by John Updike
 - [ ] The Color Purple by Alice Walker
-- [ ] Jimmy Corrigan, The Smarest Kid on Earth by Chris Ware
+- [ ] Jimmy Corrigan, The Smartest Kid on Earth by Chris Ware
 - [ ] Morvern Callar by Alan Warner
 - [ ] The History of Mr Polly by HG Wells
 - [ ] The Fountain Overflows by Rebecca West
 - [ ] Frost in May by Antonia White
 - [ ] The Tree of Man by Patrick White
-- [ ] The Picture of Dorian Gray by Oscar Wilde
+- [x] The Picture of Dorian Gray by Oscar Wilde
 - [ ] Oranges Are Not the Only Fruit by Jeanette Winterson
 - [ ] I'll Go to Bed at Noon by Gerard Woodward
 - [ ] To the Lighthouse by Virginia Woolf
