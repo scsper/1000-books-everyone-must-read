@@ -54,7 +54,7 @@ Modified slightly based on interest.
 - [ ] A book you have started but never finished
 - [ ] A self-improvement book
 - [ ] A book by David McCullough
-- [ ] A book you own but have never read
+- [x] A book you own but have never read [The Passion of Jesus Christ - Scott 2/4/2016]
 - [ ] A book targeted at the other gender
 - [ ] A book by a speaker at a conference you have attended
 - [ ] A book written by someone of a different ethnicity than you 
@@ -126,4 +126,4 @@ Bonus
 - [ ] A book about business
 - [ ] A book about entrepreneurship
 
-Total: 14 out of 104
+Total: 15 out of 104
