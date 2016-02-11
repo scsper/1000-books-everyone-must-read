@@ -178,7 +178,7 @@ Crime
 - [ ] True History of the Ned Kelly Gang by Peter Carey
 - [ ] The Hollow Man by John Dickson Carr
 - [ ] The Big Sleep by Raymond Chandler
-- [ ] The Long Goodbye by Raymond Chandler
+- [x] The Long Goodbye by Raymond Chandler
 - [ ] No Orchids for Miss Blandish by James Hadley Chase
 - [ ] The Riddle of the Sands by Erskine Childers
 - [ ] And Then There Were None by Agatha Christie
@@ -192,7 +192,7 @@ Crime
 - [ ] The Hound of the Baskervilles by Arthur Conan Doyle
 - [ ] The Sign of Four by Arthur Conan Doyle
 - [ ] The Manchurian Candidate by Richard Condon
-- [ ] The Secret Agent by Joseph Conrad
+- [x] The Secret Agent by Joseph Conrad
 - [ ] Under Western Eyes by Joseph Conrad
 - [ ] Postmortem by Patricia Cornwell
 - [ ] The Andromeda Strain by Michael Crichton

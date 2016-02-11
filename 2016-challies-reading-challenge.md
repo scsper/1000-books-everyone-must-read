@@ -24,7 +24,7 @@ Modified slightly based on interest.
 - [ ] A novel that won the Pulitzer Prize
 - [ ] A book with at least 400 pages
 - [ ] A book by C.S. Lewis or J.R.R. Tolkien
-- [ ] The National Book award winner
+- [x] An Edgar Award winner [The Long Goodbye by Raymond Chandler - Scott 2/10/2016]
 - [ ] A book that has a fruit of the Spirit in the title
 - [x] A book on the current New York Times list of bestsellers [The Crossing by Michael Connelly - Scott 12/21/2015]
 - [x] A book about church history [Sketches from Church History by S. M. Houghton - Scott 1/20/2016]
