@@ -177,7 +177,7 @@ Crime
 - [ ] Double Indemnity by James M Cain
 - [ ] True History of the Ned Kelly Gang by Peter Carey
 - [ ] The Hollow Man by John Dickson Carr
-- [ ] The Big Sleep by Raymond Chandler
+- [x] The Big Sleep by Raymond Chandler
 - [x] The Long Goodbye by Raymond Chandler
 - [ ] No Orchids for Miss Blandish by James Hadley Chase
 - [ ] The Riddle of the Sands by Erskine Childers
@@ -230,7 +230,7 @@ Crime
 - [x] The King of Torts by John Grisham
 - [ ] Hangover Square by Patrick Hamilton
 - [ ] The Glass Key by Dashiell Hammett
-- [ ] The Maltese Falcon by Dashiell Hammett
+- [x] The Maltese Falcon by Dashiell Hammett
 - [ ] Red Harvest by Dashiell Hammett
 - [ ] The Thin Man by Dashiell Hammett
 - [ ] Fatherland by Robert Harris
@@ -254,7 +254,7 @@ Crime
 - [ ] Dolores Claiborne by Stephen King
 - [ ] Kim by Rudyard Kipling
 - [ ] The Constant Gardener by John le Carre
-- [ ] Tinker, Tailor, Soldier, Spy by John le Carre
+- [x] Tinker, Tailor, Soldier, Spy by John le Carre
 - [ ] The Spy Who Came in from the Cold by John le Carre
 - [x] To Kill a Mockingbird by Harper Lee
 - [ ] 52 Pick-up by Elmore Leonard
@@ -350,10 +350,10 @@ Family and self
 - [ ] My New York Diary by Julie Doucet
 - [ ] The Millstone by Margaret Drabble
 - [ ] My Family and Other Animals by Gerald Durrell
-- [ ] Silence by Shusaku Endo
+- [x] Silence by Shusaku Endo
 - [ ] The Gathering by Anne Enright
 - [ ] Middlesex by Jeffrey Eugenides
-- [ ] As I Lay Dying by William Faulkner
+- [x] As I Lay Dying by William Faulkner
 - [ ] The Sound and the Fury by William Faulkner
 - [ ] The Sportswriter by Richard Ford
 - [ ] Howards End by EM Forster
