@@ -51,7 +51,7 @@ Modified slightly based on interest.
 - [ ] A book about joy or happiness
 - [ ] A book by a female author
 - [ ] A book whose title comes from a Bible verse
-- [ ] A book you have started but never finished
+- [x] A book you have started but never finished [Tinker Tailor Soldier Spy by John LeCarre - Scott 2/22/2016]
 - [ ] A self-improvement book
 - [ ] A book by David McCullough
 - [x] A book you own but have never read [The Passion of Jesus Christ - Scott 2/4/2016]
